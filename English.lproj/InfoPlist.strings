@@ -1,0 +1,10 @@
+/* 
+   InfoPlist.strings
+   Scope2
+
+   Created by YOSHIDA Hiroyuki on 10/11/05.
+   Copyright 2010 Institute for HyperNetwork Society. All rights reserved.
+ */
+ 
+// application display name
+CFBundleDisplayName = "地震の実験";
